@@ -8,7 +8,7 @@
         <xt:oxy_version>17.0+</xt:oxy_version>
         <xt:type>plugin</xt:type>
         <xt:author>Radu Coravu</xt:author>
-        <xt:name>Contribute libraries to Oxygen which make it possible to import Excel XLSX libraries</xt:name>
+        <xt:name>Excel XLSX libraries</xt:name>
         <xt:description xmlns="http://www.w3.org/1999/xhtml">Contribute libraries to Oxygen which make it possible to import Excel 2007 and newer XLSX libraries</xt:description>
     </xt:extension>
 </xt:extensions>
