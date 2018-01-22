@@ -1,8 +1,12 @@
-# oxygenxml.xlsx.import
-Oxygen XML Editor does not come bundled by default with libraries which would allow it to import XML content from the new Excel XLSX libraries:
+# Excel XLSX Libraries Add-on
+By Default, Oxygen XML Editor does not come bundled with libraries that would enable you to import XML content from newer versions of Excel. This add-on contributes the libraries necessary to provide this support.
 
-https://www.oxygenxml.com/doc/versions/18.1/ug-editor/topics/import-excel-new-format.html
+## Installation
 
-This plugin contributing additional libraries which allow the Oxygen XML Editor to import new Excel XLSX stylesheets to XML.
+1. Go to **Help->Install new add-ons** to open an add-on selection dialog box.
+2. Enter or paste http://www.oxygenxml.com/InstData/Addons/default/updateSite.xml in the **Show add-ons from** field or select it from the drop-down menu.
+3. Select **Excel XLSX libraries** add-on and click **Next**.
+4. Select the **I accept all terms of the end user license agreement** option and click **Finish**.
+5. Restart the application.
 
-This plugin's "oxygenxml.xlsx.import" folder can either be copied to the "OXYGEN_INSTALL_DIR\plugins" folder or it can be installed as an add on (Oxygen Help menu->Install new add-on) from the location: https://raw.githubusercontent.com/oxygenxml/oxygenxml.xlsx.import/master/addon.xml
+Result: You can now use the Import wizard to import data from Excel 2007 or newer.
