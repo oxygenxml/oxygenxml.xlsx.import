@@ -10,3 +10,9 @@ By Default, Oxygen XML Editor does not come bundled with libraries that would en
 5. Restart the application.
 
 Result: You can now use the Import wizard to import data from Excel 2007 or newer.
+
+Copyright and License
+---------------------
+Copyright 2018 Syncro Soft SRL.
+
+This project is licensed under [Apache License 2.0](https://github.com/oxygenxml/oxygenxml.xlsx.import/blob/master/LICENSE)
