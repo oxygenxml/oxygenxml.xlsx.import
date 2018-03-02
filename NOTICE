@@ -1,0 +1,25 @@
+   =============================================================================
+   ==  NOTICE file corresponding to section 4(d) of the Apache License,       ==
+   ==  Version 2.0, in this case for the oxygenxml.xlsx.import distribution.  ==
+   =============================================================================
+----------------------------------------------------------
+This product includes software developed by The Apache Software Foundation (http://www.apache.org/).
+
+poi-ooxml-3.10-FINAL-20140208.jar
+Site: http://poi.apache.org/
+License: Apache License 2.0 ( http://www.apache.org/licenses/LICENSE-2.0)
+
+poi-ooxml-schemas-3.10-FINAL-20140208.jar
+Site: http://poi.apache.org/
+License: Apache License 2.0 ( http://www.apache.org/licenses/LICENSE-2.0)
+
+xmlbeans-2.3.0.jar 
+Site: http://xmlbeans.apache.org 
+License: Apache License 2.0 ( http://www.apache.org/licenses/LICENSE-2.0)
+
+----------------------------------------------------------
+This product includes software from the following projects:
+
+dom4j-1.6.1.jar 
+Site: https://dom4j.github.io/
+License: Apache License 2.0 ( http://www.apache.org/licenses/LICENSE-2.0)
