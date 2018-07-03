@@ -15,8 +15,8 @@
                     <title>Excel XLSX libraries</title>
                 </head>
                 <body>
-                    <p>Contribute libraries to Oxygen which make it possible to import Excel 2007 and newer XLSX libraries.</p>
-                    <p>For more details, please visit the project location: <a href="https://github.com/oxygenxml/oxygenxml.xlsx.import">
+                    <p>This add-on contributes additional libraries that makes it possible to import spreadsheet data from Microsoft Excel 2007 and newer.</p>
+                    <p>For more details, see: <a href="https://github.com/oxygenxml/oxygenxml.xlsx.import">
                         https://github.com/oxygenxml/oxygenxml.xlsx.import</a></p>
                 </body>
             </html>
