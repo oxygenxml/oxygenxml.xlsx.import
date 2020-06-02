@@ -1,4 +1,4 @@
-# Excel XLSX Libraries Add-on
+# Excel XLSX Libraries v3.10 Add-on
 By Default, Oxygen XML Editor does not come bundled with libraries that would enable you to import XML content from newer versions of Excel. This add-on contributes the libraries necessary to provide this support.
 
 ## Compatibility

@@ -8,11 +8,11 @@
         <xt:oxy_version>17.0+</xt:oxy_version>
         <xt:type>plugin</xt:type>
         <xt:author>Syncro Soft</xt:author>
-        <xt:name>Excel XLSX libraries</xt:name>
+        <xt:name>Excel XLSX libraries v3.10</xt:name>
         <xt:description xmlns="http://www.w3.org/1999/xhtml">
             <html>
                 <head>
-                    <title>Excel XLSX libraries</title>
+                    <title>Excel XLSX libraries v3.10</title>
                 </head>
                 <body>
                     <p>This add-on contributes additional libraries that makes it possible to import spreadsheet data from Microsoft Excel 2007 and newer.</p>
