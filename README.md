@@ -12,7 +12,7 @@ For Oxygen XML Editor/Author/Developer version 23 or higher, use the following a
 1. Go to **Help->Install new add-ons** to open an add-on selection dialog box.
 2. Enter or paste https://www.oxygenxml.com/InstData/Addons/default/updateSite.xml in the **Show add-ons from** field or select it from the drop-down menu.
 3. Select **Excel XLSX libraries** add-on and click **Next**.
-4. Select the **I accept all terms of the end user license agreement** option and click **Finish**.
+4. Read the end-user license agreement. Then select the **I accept all terms of the end-user license agreement** option and click **Finish**.
 5. Restart the application.
 
 Result: You can now use the Import wizard to import data from Excel 2007 or newer.
