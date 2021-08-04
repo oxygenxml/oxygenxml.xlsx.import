@@ -5,7 +5,9 @@ By Default, Oxygen XML Editor does not come bundled with libraries that would en
 
 This add-on is compatible with versions 17.0 through 22.1 of Oxygen XML Editor/Author/Developer. 
 
-For Oxygen XML Editor/Author/Developer version 23 or higher, use the following add-on instead: https://github.com/oxygenxml/oxygenxml.xlsx.import-poi.3.17
+For Oxygen XML Editor/Author/Developer versions 23 and 23.1, use the following add-on instead: https://github.com/oxygenxml/oxygenxml.xlsx.import-poi.3.17.
+
+Starting with version 24, Oxygen comes bundled with these libraries.
 
 ## Installation
 
